@@ -3,3 +3,6 @@
 test3 폴더 develop 브랜치가 수정 테스트입니다. 2
 
 test2 폴더 main 브랜치가 추가
+
+
+test2 폴더에서 develop 브랜치로 추가 08:51
